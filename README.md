@@ -2,6 +2,7 @@
 Send RF 433MHz codes to an MQTT broker. Works well with Home Assistant
 
 # Example of usage with Home Assistant
+## Control chromecast volume with a 433MHz remote control
 ```yaml
 mqtt:
     broker: 172.17.0.2
